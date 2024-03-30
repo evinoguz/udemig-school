@@ -1,4 +1,4 @@
-# udemig-school-app
+# udemig-school
  
 #### Udemig-school web sitesi, html ve css kullanılarak tasarlandı.
  
